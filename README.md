@@ -11,7 +11,7 @@ I have previously worked at National Public Radio, Mercer Consulting, Junior Ach
 - 💬 Ask me about: Multidimensional IRT Models, generative art, hip-hop.
 - 📫 How to reach me:
   - Twitter: @benlistyg
-  - Email: listyg.ben [at symobl] gmail.com
+  - Email: listyg.ben [at symbol] gmail.com
 - 😄 Pronouns: He/him/his.
 - ⚡ Fun fact: I got slimed on Nikelodeon when I was 6.
 
