@@ -8,7 +8,7 @@ Prior to my return to academia, I was a member of the Data Team at Wyzant, an on
 
 I have previously worked at National Public Radio, Mercer Consulting, Junior Achievement of Georgia, and Invesco. I received my undergraduate degree in Psychology from the University of Georgia in 2016. Additionally, I spent some time at Georgia Tech as a visiting research assistant in the summer of 2014 and was a PhD student in the Industrial-Organizational Psychology department at the University of South Florida between 2016 and 2017 before leaving to explore a career path in industry.
 
-- 💬 Ask me about: Multidimensional IRT Models, generative art, hip-hop.
+- 💬 Ask me about: Multidimensional IRT Models, generative art, hip-hop. career interests
 - 📫 How to reach me:
   - Twitter: @benlistyg
   - Email: listyg.ben [at symbol] gmail.com
