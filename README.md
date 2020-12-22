@@ -6,7 +6,7 @@ My substantive research interests primarily focus around vocational interests an
 
 Prior to my return to academia, I was a member of the Data Team at Wyzant, an online tutor marketplace based in Chicago, IL, between March 2018 and June 2019. At Wyzant, I worked on interesting problems at the intersection of natural language processing and graph theory (with some observational causal inference problems and online field experiments thrown in the mix as well).
 
-I have previously worked at National Public Radio, Mercer Consulting, Junior Achievement of Georgia, and Invesco. I received my undergraduate degree in Psychology from the University of Georgia in 2016. Additionally, I spent some time at Georgia Tech as a visiting research assistant in the summer of 2014 and was a PhD student in the Industrial-Organizational Psychology department at the University of South Florida between 2016 and 2017 before leaving to explore a career path in industry.
+I have previously worked in data or research roles for National Public Radio, Mercer Consulting, Junior Achievement of Georgia, and Invesco. I received my undergraduate degree in Psychology from the University of Georgia in 2016. Additionally, I spent some time at Georgia Tech as a visiting research assistant in the summer of 2014 and was a PhD student in the Industrial-Organizational Psychology department at the University of South Florida between 2016 and 2017 before leaving to explore a career path in industry.
 
 - 💬 Ask me about: Multidimensional IRT Models, generative art, hip-hop. career interests
 - 📫 How to reach me:
